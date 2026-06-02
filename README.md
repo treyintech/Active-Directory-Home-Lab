@@ -39,7 +39,8 @@ The objective of this project was to design and deploy a fully functional Active
 - Installed Oracle VirtualBox and configured virtualization settings.
 - Downloaded and prepared Windows Server 2025 and Windows 11 installation media.
 - Created separate virtual machines for the Domain Controller and client workstation.
-  
+  <img width="1229" height="640" alt="image" src="https://github.com/user-attachments/assets/0740d7b3-f73a-482b-8af9-318f6898990c" />
+
 *Step 2: Configured the Domain Controller*
 - Installed Windows Server 2025.
 - Configured dual network adapters for internet access and an isolated internal network.
@@ -51,7 +52,6 @@ The objective of this project was to design and deploy a fully functional Active
 - Promoted the server to a Domain Controller.
 - Created a new Active Directory forest and domain.
 - Configured Organizational Units (OUs) and administrative accounts.
- <img width="650" height="341" alt="step 5" src="https://github.com/user-attachments/assets/7a91a61c-0c09-4fad-9be1-c7cd8dea0d23" />
 
 *Step 4: Implemented Core Network Services*
 - Installed and configured DNS for domain name resolution.
