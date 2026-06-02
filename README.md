@@ -51,7 +51,8 @@ The objective of this project was to design and deploy a fully functional Active
 - Promoted the server to a Domain Controller.
 - Created a new Active Directory forest and domain.
 - Configured Organizational Units (OUs) and administrative accounts.
-  
+ <img width="650" height="341" alt="step 5" src="https://github.com/user-attachments/assets/7a91a61c-0c09-4fad-9be1-c7cd8dea0d23" />
+
 *Step 4: Implemented Core Network Services*
 - Installed and configured DNS for domain name resolution.
 - Installed and configured DHCP to automatically assign IP addresses to client systems.
@@ -68,9 +69,10 @@ The objective of this project was to design and deploy a fully functional Active
 - Created an Organizational Unit for user accounts.
 - Generated and imported over 1,000 Active Directory user accounts through a bulk provisioning script.
 - Verified successful account creation and directory structure.
+<img width="1170" height="720" alt="path3" src="https://github.com/user-attachments/assets/596de322-a507-41cc-b5cd-4a97353a616f" />
 
 *Step 7: Deployed and Configured a Client Workstation*
-- Installed Windows 10 Pro on a separate virtual machine.
+- Installed Windows 11 Pro on a separate virtual machine.
 - Connected the workstation to the internal virtual network.
 - Obtained network configuration through DHCP.
 - Renamed the workstation and joined it to the Active Directory domain.
@@ -80,6 +82,7 @@ The objective of this project was to design and deploy a fully functional Active
 - Verified Active Directory authentication and user profile creation.
 - Confirmed DNS functionality, internet access, and domain communication.
 - Validated DHCP leases and Active Directory computer object creation.
+<img width="1655" height="747" alt="path2" src="https://github.com/user-attachments/assets/a27d139c-63a5-4dcc-b598-822ee16a39dd" />
 
 ## Project Outcome
 
